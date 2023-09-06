@@ -1,12 +1,7 @@
-![LaravelCollective HTML](LaravelCollectiveHTML-banner.png)
 
-[![Build Status](https://travis-ci.org/LaravelCollective/html.svg)](https://travis-ci.org/LaravelCollective/html)
-[![Total Downloads](https://poser.pugx.org/LaravelCollective/html/downloads)](https://packagist.org/packages/laravelcollective/html)
-[![Latest Stable Version](https://poser.pugx.org/LaravelCollective/html/v/stable.svg)](https://packagist.org/packages/laravelcollective/html)
-[![Latest Unstable Version](https://poser.pugx.org/LaravelCollective/html/v/unstable.svg)](https://packagist.org/packages/laravelcollective/html)
-[![License](https://poser.pugx.org/LaravelCollective/html/license.svg)](https://packagist.org/packages/laravelcollective/html)
+**Fork of [LaravelCollective/html](https://github.com/LaravelCollective/html)**
 
-Official documentation for Forms & Html for The Laravel Framework can be found at the [LaravelCollective](https://laravelcollective.com/docs) website.
-
-## Replacement
-If you're looking to replace this package due to it's retirement we recommend using [Shift](https://laravelshift.com/convert-laravelcollective-html-to-spatie-laravel-html)
+## Fork Info
+This is a fork for use by BANG Systems Limited. We chose to fork at this time as we utilise this package in many areas.
+You are free to install and use this however we may publish breaking changes with little or no notice as this is not 
+intended for use outside of BANG Systems Limited.
